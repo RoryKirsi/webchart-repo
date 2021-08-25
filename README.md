@@ -11,10 +11,10 @@ If you had already added this repo earlier, run `helm repo update` to retrieve
 the latest versions of the packages.  You can then run `helm search repo
 rorykirsi` to see the charts.
 
-To install the kirsi-web-chart chart:
+To install the webchart chart:
 
-    helm install my-kirsi-web rorykirsi/kirsi-web-chart
+    helm install my-nginx-web rorykirsi/webchart
 
 To uninstall the chart:
 
-    helm delete my-kirsi-web
+    helm delete my-nginx-web
