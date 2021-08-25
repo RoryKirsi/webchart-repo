@@ -11,7 +11,7 @@ If you had already added this repo earlier, run `helm repo update` to retrieve
 the latest versions of the packages.  You can then run `helm search repo
 rorykirsi` to see the charts.
 
-To install the kirsi-web chart:
+To install the kirsi-web-chart chart:
 
     helm install my-kirsi-web rorykirsi/kirsi-web-chart
 
