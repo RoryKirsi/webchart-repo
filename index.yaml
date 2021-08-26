@@ -3,6 +3,16 @@ entries:
   webchart:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2021-08-26T03:32:44.105060223Z"
+    description: A Helm chart for Kubernetes
+    digest: d04aa05b3c757d0bf5f77048415392fd96c455a8e2b43a2d9697a6ffcfae2b73
+    name: webchart
+    type: application
+    urls:
+    - https://github.com/RoryKirsi/webchart-repo/releases/download/webchart-0.2.0/webchart-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2021-08-25T02:51:48.263950005Z"
     description: A Helm chart for Kubernetes
     digest: 8a613090d4b4a78233fd9f318694659081c5afa483cb7140ccc0c9057d184edb
